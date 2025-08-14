@@ -6,22 +6,25 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-### Hello, I am Tri👋
+<h1 align="center">Hello, I am Tri👋</h1>
 
 🌱 I’m currently learning C#, PHP, Python.
 
+<h2>OS and Tools</h2>
 <p align="center">
-  <h3>OS and Tools</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,mint,visualstudio,vscode" />
   </a>
-  <br>
-  <h3>Programming languagues and frameworks</h3>
+</p>
+  
+<h2>Programming languagues and frameworks</h2>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,godot,py" />
   </a>
 </p>
 
-# 📊GitHub Stats :
-![tribeti's Stats](https://github-readme-stats.vercel.app/api?username=tribeti&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![tribeti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tribeti&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+### 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=tribeti&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tribeti&theme=dark&show_icons=true&hide_border=true&layout=compact)
