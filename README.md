@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello, I am Tri👋</h1>
+<h1 align="center">Hello, I am Tri 🙋‍♂️</h1>
 
 🌱 I’m currently learning C#, PHP, Python.
 
