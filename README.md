@@ -1,27 +1,27 @@
 <!--
-**tribeti/tribeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello, I am Tri👋
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+🌱 I’m currently learning C#, PHP, Python.
+
+<p align="center">
+  <h3>OS and Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,mint,visualstudio,vscode" />
+  </a>
+  <br>
+  <h3>Programming languagues and frameworks</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,godot,py" />
+  </a>
+</p>
+
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=tribeti&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tribeti&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tribeti&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=tribeti&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=tribeti&icon=0&color=0)](https://visitcount.itsvg.in)
+![tribeti's Stats](https://github-readme-stats.vercel.app/api?username=tribeti&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![tribeti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tribeti&theme=dark&show_icons=true&hide_border=true&layout=compact)
