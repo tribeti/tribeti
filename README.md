@@ -20,7 +20,7 @@
 <h2>Programming languagues and frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,godot,py" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,godot,py,,ts,react" />
   </a>
 </p>
 
