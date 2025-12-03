@@ -42,6 +42,5 @@ Actively working on personal projects and coursework. Always eager to learn, imp
 ---
 
 **📊 GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tribeti&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tribeti&layout=compact&theme=radical&hide_border=true)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tribeti&theme=radical&hide_border=true)
