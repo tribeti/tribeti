@@ -42,6 +42,8 @@ Actively working on personal projects and coursework. Always eager to learn, imp
 
 ---
 
-**📊 GitHub Stats**  
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tribeti&theme=github_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tribeti&layout=donut-vertical&theme=github_dark&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats)
+**📊 GitHub Stats**
+<p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tribeti&layout=donut-vertical&theme=github_dark&show_icons=true" />
+</p>
+
