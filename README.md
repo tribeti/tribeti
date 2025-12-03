@@ -45,7 +45,7 @@ Love turning ideas into working products — whether it’s a smooth web experie
 Actively working on personal projects and coursework. Always eager to learn, improve, and contribute.
 
 📫 Email: your.email@student.edu.vn  
-💼 LinkedIn: linkedin.com/in/your-profile  
+💼 LinkedIn: https://www.linkedin.com/in/tribeti/
 🌱 Currently preparing for full-time internship/job opportunities in 2026  
 
 ---
