@@ -44,6 +44,6 @@ Actively working on personal projects and coursework. Always eager to learn, imp
 
 **📊 GitHub Stats**
 <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tribeti&layout=donut-vertical&theme=github_dark&show_icons=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tribeti&layout=donut-vertical&theme=github_dark&show_icons=true&hide=html" />
 </p>
 
