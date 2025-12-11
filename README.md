@@ -24,7 +24,7 @@ Final-year CS student with a strong focus on building performant, user-friendly 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Avalonia_logo.svg/981px-Avalonia_logo.svg.png" width=46/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WinUI_Icon.svg" width=46/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/WinUI.svg" width=46/>
 </p>
 
 - Tools & Practices:
