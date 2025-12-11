@@ -17,7 +17,7 @@ Final-year CS student with a strong focus on building performant, user-friendly 
 ### Current Focus
 - Web: 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express" alt="Web Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express" alt="Web Tech Stack" />
 </p>
 
 - Desktop: 
