@@ -22,15 +22,13 @@ Final-year CS student with a strong focus on building performant, user-friendly 
 
 - Desktop: 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs"/>
+  <img src="https://ink-md-server.vercel.app/api?i=cs,dotnet,winui"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Avalonia_logo.svg/981px-Avalonia_logo.svg.png" width=46/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/WinUI.svg" width=46/>
 </p>
 
 - Tools & Practices:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,visualstudio" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" width=46/>
+  <img src="https://ink-md-server.vercel.app/api??i=git,github,docker,linux,windows,vs2026,zed" />
 </p>
 
 Love turning ideas into working products — whether it’s a smooth web experience or a practical desktop tool.
@@ -46,4 +44,3 @@ Actively working on personal projects and coursework. Always eager to learn, imp
 <p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tribeti&layout=donut-vertical&theme=github_dark&show_icons=true&hide=html,css&size_weight=0.5&count_weight=0.5" />
 </p>
-
