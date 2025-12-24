@@ -17,7 +17,7 @@ Final-year CS student with a strong focus on building performant, user-friendly 
 ### Current Focus
 - Web: 
 <p align="center">
-  <img src="https://ink-md-server.vercel.app/api?i=javascript,typescript,react,nodejs,expressjs" alt="Web Tech Stack" />
+  <img src="https://ink-md-server.vercel.app/api?i=js,ts,react,nodejs,expressjs" alt="Web Tech Stack" />
 </p>
 
 - Desktop: 
