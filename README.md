@@ -17,7 +17,7 @@ Final-year CS student with a strong focus on building performant, user-friendly 
 ### Current Focus
 - Web: 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express" alt="Web Tech Stack" />
+  <img src="https://ink-md-server.vercel.app/api?i=javascript,typescript,react,nodejs,expressjs" alt="Web Tech Stack" />
 </p>
 
 - Desktop: 
@@ -28,7 +28,7 @@ Final-year CS student with a strong focus on building performant, user-friendly 
 
 - Tools & Practices:
 <p align="center">
-  <img src="https://ink-md-server.vercel.app/api??i=git,github,docker,linux,windows,vs2026,zed" />
+  <img src="https://ink-md-server.vercel.app/api??i=git,github,linux,windows,vs2026,zed" />
 </p>
 
 Love turning ideas into working products — whether it’s a smooth web experience or a practical desktop tool.
