@@ -22,7 +22,7 @@ Final-year CS student with a strong focus on building performant, user-friendly 
 
 - Desktop: 
 <p align="center">
-  <img src="https://ink-md-server.vercel.app/api?i=cs,dotnet,winui,avalonia"/>
+  <img src="https://ink-md-server.vercel.app/api?i=cs,dotnet,winui"/>
 </p>
 
 - Tools & Practices:
