@@ -22,7 +22,15 @@ Final-year CS student with a strong focus on building performant, user-friendly 
 
 - Desktop: 
 <p align="center">
-  <img src="https://ink-md-server.vercel.app/api?i=cs,dotnet,winui"/>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+    <img src="https://ink-md-server.vercel.app/api?i=cs"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img src="https://ink-md-server.vercel.app/api?i=dotnet"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/windows/apps/winui/winui3/" target="_blank">
+    <img src="https://ink-md-server.vercel.app/api?i=winui"/>
+  </a>
 </p>
 
 - Tools & Practices:
