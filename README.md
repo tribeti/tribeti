@@ -34,12 +34,12 @@ Love turning ideas into working products — whether it’s a smooth web experie
 
 Actively working on personal projects and coursework. Always eager to learn, improve, and contribute.
 
-💼 LinkedIn: https://www.linkedin.com/in/tribeti/  
 🌱 Currently preparing for full-time internship/job opportunities in 2026  
 
----
+ 
+<!-- ---
 
-**📊 GitHub Stats**
-<p align="center">
+ **📊 GitHub Stats**
+ <p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tribeti&layout=donut-vertical&theme=github_dark&show_icons=true&hide=html,css&size_weight=0.5&count_weight=0.5" />
-</p>
+</p> -->
