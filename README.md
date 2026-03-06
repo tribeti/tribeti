@@ -8,11 +8,8 @@
 -->
 # Hi there 👋, I'm Tri
 
-**Computer Science Student | Passionate about Web & Desktop Application Development**  
 ![GitHub followers](https://img.shields.io/github/followers/tribeti?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tribeti?style=social)  
-
-Final-year CS student with a strong focus on building performant, user-friendly web and desktop applications. Currently deepening expertise in modern full-stack development while exploring cross-platform desktop solutions.
 
 ### Current Focus
 - Web: 
