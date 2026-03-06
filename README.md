@@ -11,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/tribeti?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tribeti?style=social)  
 
-- Languages $ frameworks:
+- Languages & frameworks:
 <p align="center">
   <img src="https://ink-md-server.vercel.app/api?i=js,ts,cs,dotnet,react,winui" />
 </p>
